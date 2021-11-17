@@ -1,0 +1,12 @@
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+Hola mundo, aqui de nuevo en git
+<<>>=
+2+2
+a<- c(1,2,3)
+a
+@
+
+\end{document}
